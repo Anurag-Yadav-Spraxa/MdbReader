@@ -14,7 +14,7 @@ public sealed partial class MdbDataRow
     private string GetString(IMdbValue fieldValue) => fieldValue switch
     {
         MdbStringValue stringValue => stringValue.Value,
-        MdbMemoValue memoValue => memoValue.StreamReader!.ReadToEnd(),
+        MdbMemoValue memoValue => memoValue.Encoding.GetString(memoValue.Value!.ReadToEnd()),
         _ => ThrowInvalidCast<string>(fieldValue, nameof(String))
     };
 
