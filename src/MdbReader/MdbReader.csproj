@@ -23,7 +23,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <PackageId>MMKiwi.MdbReader</PackageId>
-    <Version>0.1.0-beta1</Version>
+    <Version>0.1.0-fork1</Version>
     <Authors>Micah Makaiwi</Authors>
     <Product>MdbReader</Product>
     <PackageReadmeFile>README.md</PackageReadmeFile>
