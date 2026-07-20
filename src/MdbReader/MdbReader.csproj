@@ -31,8 +31,8 @@
     <Title>Reader for Acces MDB databases</Title>
     <PackageLicenseExpression>LGPL-2.0-only</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/mmkiwi/mdbreader</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/mmkiwi/mdbreader</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Anurag-Yadav-Spraxa/MdbReader</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Anurag-Yadav-Spraxa/MdbReader</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Copyright>Copyright Micah Makaiwi 2024</Copyright>
     <IncludeSymbols>true</IncludeSymbols>
